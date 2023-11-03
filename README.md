@@ -9,6 +9,7 @@
 - npm install @react-navigation/native-stack
 - npm i react-native-responsive-screen
 - npm i expo-linear-gradient
+- npm i react-native-heroicons
 ```
 // tailwind.config.js
 module.exports = {

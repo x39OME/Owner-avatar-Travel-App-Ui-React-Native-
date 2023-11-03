@@ -7,6 +7,7 @@
 - npm install @react-navigation/native
 - npx expo install react-native-screens react-native-safe-area-context
 - npm install @react-navigation/native-stack
+- npm i expo-linear-gradient
 ```
 // tailwind.config.js
 module.exports = {

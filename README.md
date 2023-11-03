@@ -10,6 +10,7 @@
 - npm i react-native-responsive-screen
 - npm i expo-linear-gradient
 - npm i react-native-heroicons
+- npm i react-native-heroicons react-native-svg
 ```
 // tailwind.config.js
 module.exports = {

@@ -35,3 +35,11 @@ module.exports = function (api) {
   };
 };
 ```
+
+## Steps
+- Open Terminal
+- npm i
+- npx expo
+- -w or Open Expo App On your Phone
+
+<img src="" />

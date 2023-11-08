@@ -55,9 +55,12 @@ module.exports = function (api) {
 
 
 ## Final project format
+
 #### Welcome Screen
 <img src="welcomescreen.jpg" style="width:300px;" alt="Welcome Screen" />
+
 #### Home Screen
 <img src="homescreen.jpg" style="width:300px;" alt="Home Screen" />
-#### Home Screen
+
+#### Destinations Screen
 <img src="destinationscreen.jpg" style="width:300px;" alt="Destination Screen" />

@@ -1,4 +1,13 @@
-# Travel-App-Ui-React-Native
+# Travel App Ui React Native
+
+## What did we use in the project?
+1- [React Native Expo](https://reactnative.dev/)
+2- [NativeWind](https://www.nativewind.dev/)
+3- [React Navigation](https://reactnavigation.org/)
+4- [npm react-native-linear-gradient](https://www.npmjs.com/package/react-native-linear-gradient)
+5- [npm react-native-heroicons](https://www.npmjs.com/package/react-native-heroicons)
+
+## Steps
 - npx create-expo-app Travel-App-Ui
 - npm i twrnc
 - npm i nativewind
@@ -36,8 +45,10 @@ module.exports = function (api) {
 };
 ```
 
-## Steps
-- Open Terminal
+## Run The Project
+- Download
+- Open The Project
+- Terminal
 - npm i
 - npx expo
 - -w or Open Expo App On your Phone

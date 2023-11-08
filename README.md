@@ -55,4 +55,5 @@ module.exports = function (api) {
 
 
 ## Final project format
-<img src="" />
+#### Home Screen
+<img src="homescreen.jpg" alt="Home Screen" />

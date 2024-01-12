@@ -54,16 +54,16 @@ module.exports = function (api) {
 - -w or Open Expo App On your Phone
 
 
-## Final project format
+## Preview Final Project
 
 #### Welcome Screen
 
-<img src="welcomescreen.jpg" style="width:300px;" alt="Welcome Screen" />
+<img src="welcomescreen.jpg" style="width:350px;" alt="Welcome Screen" />
 
 #### Home Screen
 
-<img src="homescreen.jpg" style="width:300px;" alt="Home Screen" />
+<img src="homescreen.jpg" style="width:350px;" alt="Home Screen" />
 
 #### Destinations Screen
 
-<img src="destinationscreen.jpg" style="width:300px;" alt="Destination Screen" />
+<img src="destinationscreen.jpg" style="width:350px;" alt="Destination Screen" />

@@ -1,5 +1,21 @@
 # Travel App Ui React Native
 
+
+## Preview Final Project
+
+#### Welcome Screen
+
+<img src="welcomescreen.jpg" style="width:350px;" alt="Welcome Screen" />
+
+#### Home Screen
+
+<img src="homescreen.jpg" style="width:350px;" alt="Home Screen" />
+
+#### Destinations Screen
+
+<img src="destinationscreen.jpg" style="width:350px;" alt="Destination Screen" />
+
+
 ## What did we use in the project?
 ### 1- [React Native Expo](https://reactnative.dev/)
 ### 2- [NativeWind](https://www.nativewind.dev/)
@@ -45,25 +61,10 @@ module.exports = function (api) {
 };
 ```
 
-## Run The Project
+## How To Run The Project
 - Download
 - Open The Project
 - Terminal
 - npm i
 - npx expo
 - -w or Open Expo App On your Phone
-
-
-## Preview Final Project
-
-#### Welcome Screen
-
-<img src="welcomescreen.jpg" style="width:350px;" alt="Welcome Screen" />
-
-#### Home Screen
-
-<img src="homescreen.jpg" style="width:350px;" alt="Home Screen" />
-
-#### Destinations Screen
-
-<img src="destinationscreen.jpg" style="width:350px;" alt="Destination Screen" />
